@@ -1,4 +1,4 @@
 # zakGitbook
 
-use for gitbook repository to synchronize
+记录学习
 
