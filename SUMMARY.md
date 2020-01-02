@@ -6,3 +6,5 @@
 
 * [Mac 安装 npm 的正确方式](qian-duan-ji-shi/mac-an-zhuang-npm-de-zheng-que-fang-shi.md)
 
+## 安卓记事
+
